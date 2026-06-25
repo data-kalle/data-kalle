@@ -16,6 +16,6 @@ My main project right now is Spark, a harness for a personal embodied AI. Spark 
 
 ---
 
-I post write-ups, tools, and blog articles at **[filipsec.se](https://filipsec.se)**. There you can also find my contact details.
+I will post write-ups, tools, and blog articles at **filipsec.com (coming soon!)**. There you will also find my contact details.
 
 <sub>You may wonder what "Data-Kalle" means. It's actually a nickname my grandfather gave me and used whenever something went a bit sideways with the computer and he needed a second pair of eyes. It's kind of the Swedish version of "Computer Joe". 💙</sub>
